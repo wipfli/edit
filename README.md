@@ -1,5 +1,6 @@
 # edit
-Edit data stored on ballometer.io
+
+Node express server for editing data on a ballometer server 
 
 ## Installation
 
